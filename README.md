@@ -29,6 +29,7 @@ Currently, only the following Etherscan.io API modules are available:
 - accounts
 - stats
 - tokens
+- proxies about blocks info
 
 The remaining available modules provided by Etherscan.io will be added shortly
 
@@ -52,6 +53,6 @@ Jupyter notebooks area also included in each directory to show all examples
 
 
 ## Holla at ya' boy
-BTC: 16Ny72US78VEjL5GUinSAavDwARb8dXWKG
+BTC: 32LAoQLY2seJGXv7LopEfqWYhNPQAxN7Hg
 
-ETH: 0x5E8047fc033499BD5d8C463ADb29f10f11165ed0
+ETH: 0xeb18dfe13fec5407b9c31cc601a20684f4c78367
