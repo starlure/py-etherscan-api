@@ -55,4 +55,4 @@ Jupyter notebooks area also included in each directory to show all examples
 ## Holla at ya' boy
 BTC: 32LAoQLY2seJGXv7LopEfqWYhNPQAxN7Hg
 
-ETH: 0xeb18dfe13fec5407b9c31cc601a20684f4c78367
+ETH: 0x1bC4c23691B5f68a6b408571B34AfF15D519a67d
